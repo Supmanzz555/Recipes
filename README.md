@@ -25,6 +25,8 @@ so that is all i have it just simple as it look (although it kinda hard for firs
 
 still i  really have a long journey to improve my coding skill and all of this is my starting point so thanks you everyone happy coding!!!!
 
+also my markdown writing is bad tho lol
+
 ## Reference 
 
 [Odin project ](https://www.theodinproject.com/) for HTML tutorial !!
