@@ -3,6 +3,8 @@
 The purpose of this project is to learning basic of html like how to add image   list  and paragraph ,
 So write simple website about recipe of popular thai food "PadKraPao" which has 2 version with egg and not
 
+![enter image description here](https://media1.tenor.com/m/g5aoclPQ4y0AAAAd/%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%AA%E0%B8%B1%E0%B8%9A.gif)
+
 # Let have a look at these file!
 
 You see, my project has 3 main files and 1 folder (which only to store image) let have a closer look at them!
