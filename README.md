@@ -1,4 +1,4 @@
-# HI welcome to my first ever project!
+# Hello! welcome to my first ever project!
 
 The purpose of this project is to learning basic of html like how to add image   list  and paragraph ,
 So write simple website about recipe of popular thai food "PadKraPao" which has 2 version with egg and not
@@ -17,3 +17,14 @@ The First recipe with no eggs version inside this page has image of food and ing
 
 3. PadKraPaoEggs.html
 The second one but with egg!
+
+
+## Conclusion
+
+so that is all i have it just simple as it look (although it kinda hard for first time but it fun XD)
+
+still i  really have a long journey to improve my coding skill and all of this is my starting point so thanks you everyone happy coding!!!!
+
+## Reference 
+
+[Odin project ](https://www.theodinproject.com/) for HTML tutorial !!
